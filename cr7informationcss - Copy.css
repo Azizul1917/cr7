@@ -1,0 +1,329 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+.body{
+   background-color:#e5f5f5 ;
+   
+}
+.contaner{
+max-width: 1300px;
+background-color:#7ddddd ;
+margin:0 auto;
+border:dashed 2px black;
+font-family: 'Cute Font', cursive;
+}
+.img1{
+    padding: 10px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 30px;
+}
+.cr7-intro-name{
+text-align: center;
+padding-top:15px;
+}
+ .link-intro{
+padding-top: 30px;
+ }
+.left-div{
+float: left;
+width:303px;
+padding-left: 353px;
+padding-right: 0px;
+
+}
+
+.right-div{
+float: right;
+width: 40%;;
+padding-left:0px ;
+padding-right:114px ;
+}
+.left-div ul p{
+    padding-bottom: 5px;
+
+}
+.left-div ul  li a{
+text-decoration: none;
+color:#eb0a0a ;
+
+
+}
+.right-div ul p{
+    padding-bottom: 5px;
+
+}
+.right-div ul  li a{
+    text-decoration: none;
+    color: red;
+    }
+
+ .left-div ul  li:hover a{
+ text-decoration:underline;
+ color: blue;
+        }
+
+
+
+.right-div ul  li:hover a{
+text-decoration: underline;
+ color:blue ;
+     }
+
+.cler-div{
+clear: both;
+}
+hr{
+border: dotted 1px rgb(0, 0, 0) ;
+
+
+}
+/*Who Is Cristiano Ronaldo?*/
+.rrr{
+    text-align: justify;
+}
+/* Menchestar United*/
+
+.Menchesta-United{
+text-align: center;
+padding-top: 20px;
+padding-bottom:30px ;
+}
+
+.Menchesta-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    float: left;
+    width: 40%;
+    padding-right: 10px;
+}
+.Menchestar{
+float: right;
+width: 40%;
+text-align: justify;
+padding-right: 175px;
+}
+
+
+/*Real Madrid */
+.Real-Madrid{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px ;
+}
+
+.Real-Madrid-img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 30px;
+float: right;
+width: 40%;
+
+}
+.Real-Madrid-p{
+text-align: justify;
+float: right;
+width: 40%;
+padding-right: 118px;
+}
+
+/*  Juventas*/
+.Juventas{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px ;
+
+}
+
+.Juventas-img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 40px;
+float: left;
+width:40%;
+padding-bottom: 20px;
+}
+.Juventas-p{
+text-align: justify;
+float: left;
+width: 40%;
+padding-left:118px ;
+}
+
+/* portugal */
+
+.Portugal{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px ;
+}
+
+
+.Portugal-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+float:right;
+width: 40%;
+padding-bottom: 20px;
+}
+.azizul{
+    text-align:justify; 
+float: right;
+width: 40%;
+padding-right: 110px;
+}
+
+
+
+/*  Salary */
+
+.Salary{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px ;
+
+}
+
+
+.Salary-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+float: left;
+width: 20%;
+padding-bottom: 20px;
+}
+.salary-a{
+text-align: justify;
+float: left;
+width: 40%;
+padding-left: 110px;
+}
+
+
+/*  Girlfriends-And-Kids */
+
+.Girlfriends-And-Kids{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px ;
+}
+
+
+
+
+
+
+.Girlfriends-And-Kids-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+float: right;
+width: 40%;
+padding-bottom:20px;
+}
+
+.Girlfriends-And-Kids-p{
+text-align: justify;
+float: right;
+width:30%;
+padding-right: 110px;
+}
+
+/*Sexual Assaults*/
+.Sexual-Assaults{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px ;
+}
+
+
+.Sexual-Assaults-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    float: right;
+    width: 40%;
+    padding-bottom:20px;
+}
+.Sexual-Assaults-pp{
+    text-align: justify;
+    float: right;
+    width:30%;
+    padding-right: 110px;
+    }
+
+
+
+
+
+/*Statue-At-Madeira-Airport*/
+.Statue-At-Madeira-Airport{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:30px ;
+}
+
+
+.Statue-At-Madeira-Airport-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+float: left;
+width: 40%;
+padding-bottom: 20px;
+}
+.Statue-At-Madeira-Airport-o{
+text-align: justify;
+float: left;
+width: 40%;
+padding-left: 110px;
+}
+
+
+
+
+
+.cr7photo7{
+width: 670px;
+height: 353px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
